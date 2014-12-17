@@ -1,0 +1,15 @@
+#iPhone6 {
+	width: 877px;
+	height: 1602px;
+	padding: 395px 0 0 217px;
+	background: url(../img/iPhone6White.png)no-repeat;
+}
+h1 {
+ font-family: Oswald;
+	color: #f89de0;
+	font-size: 400px;
+	font-weight: 700;
+	line-height: 22px;
+	transform: matrix(0,1,-1,0,0,0);	
+}
+
